@@ -1,0 +1,18 @@
+
+@media(min-width:768px){
+
+    .user-contianer{
+        width: 45%;
+        margin-left: 45px;
+    }
+    .customer-container{
+        width: 45%;
+        margin-left: 20px;
+    }
+}
+@media(max-width:414px) {
+    .customer-container{
+        margin-top: 20px;
+    }
+    
+}
